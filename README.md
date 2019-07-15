@@ -1,15 +1,22 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Apple TV Starter
 
-## Apple Tv Starter
+![apple tv home page 1 with react](https://github.com/rmbh4211995/apple-tv/blob/master/src/res/read-me/homepage-1.png)
+
+![apple tv home page 2 with react](https://github.com/rmbh4211995/apple-tv/blob/master/src/res/read-me/homepage-2.png)
 
 This is the starting point for the tutorial series at https://www.youtube.com/user/rmbh4211995
 
-In the project directory, you can run:
+Create Apple Tv with a slider carousel that link to videos for music, tv shows, and movies on youtube!
 
-### `npm start`
+## How to Run
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> npm install
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
+> npm start
+
+> https://localhost:3000
+
+## Dependencies
+
+* styled-components
+* react-router
